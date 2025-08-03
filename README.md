@@ -1,3 +1,5 @@
+![](plots/lemma_heatmap.png)
+
 Scripts for processing closed-caption SRT files. You can batch download on opensubtitles.com or opensubtitles.org (it costs $3 for one month of "VIP").
 
 Conversion from .SRT to .txt is simple regex, but the `normalize_captions.py` script will do that for you. The expected structure is:
